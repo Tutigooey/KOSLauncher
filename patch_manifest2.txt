@@ -4,4 +4,4 @@ Launcherimgfiles\lobbysound\count_last.wav|https://www.dropbox.com/scl/fi/m4xhuo
 Launcherimgfiles\lobbysound\error.wav|https://www.dropbox.com/scl/fi/rtv9aak9z93ccu0ghgip2/error.wav?rlkey=39wex94wu1yggewdd9g3v2r24&st=br710nb8&dl=1
 Launcherimgfiles\lobbysound\whispwes.wav|https://www.dropbox.com/scl/fi/zrt39tn439fzwyn19y5sh/whispwes.wav?rlkey=lrw9ildd8ay700gvvvsc3wf6y&st=ddgzzkrz&dl=1
 Launcherimgfiles\lobbyui\loadingicon.png|https://www.dropbox.com/scl/fi/cigcnr1hj3y17w0vq5bvu/loadingicon.png?rlkey=ddbzulnvx44a6lx8goqeioupn&st=dj6pt4jw&dl=1
-Launcherimgfiles\rifleimage|https://www.dropbox.com/scl/fo/v73z1kdpp6xwj95kj98hw/APrjfYPMYblGLgWvZjFimRQ?rlkey=z9nw30eigoveumb6kdzoa4fjy&st=k1lu3g63&dl=1
+ZIP|Launcherimgfiles\|https://www.dropbox.com/scl/fo/v73z1kdpp6xwj95kj98hw/APrjfYPMYblGLgWvZjFimRQ?rlkey=z9nw30eigoveumb6kdzoa4fjy&st=k1lu3g63&dl=1
