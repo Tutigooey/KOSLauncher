@@ -1,1 +1,7 @@
-
+Launcherimgfiles\uniformimage\UPDATED_UNIFORMS_WITH_MAPNAME.txt|https://www.dropbox.com/scl/fi/aqqdrmomlk7ge6w1zwor1/UPDATED_UNIFORMS_WITH_MAPNAME.txt?rlkey=8vosz4sdw7oa7d3b86tpb8cqi&st=mzs7n2e1&dl=1
+Launcherimgfiles\lobbysound\count.wav|https://www.dropbox.com/scl/fi/jgrjy5v3khvzs6zvjz6lm/count.wav?rlkey=chb4db2fdpcmzqwi9x73qyc11&st=cpof9lwy&dl=1
+Launcherimgfiles\lobbysound\count_last.wav|https://www.dropbox.com/scl/fi/m4xhuof0fak2887afys7s/count_last.wav?rlkey=28u7xvp4v8p0tdnabzk3ld6fe&st=szysftjw&dl=1
+Launcherimgfiles\lobbysound\error.wav|https://www.dropbox.com/scl/fi/rtv9aak9z93ccu0ghgip2/error.wav?rlkey=39wex94wu1yggewdd9g3v2r24&st=br710nb8&dl=1
+Launcherimgfiles\lobbysound\whispwes.wav|https://www.dropbox.com/scl/fi/zrt39tn439fzwyn19y5sh/whispwes.wav?rlkey=lrw9ildd8ay700gvvvsc3wf6y&st=ddgzzkrz&dl=1
+Launcherimgfiles\lobbyui\loadingicon.png|https://www.dropbox.com/scl/fi/cigcnr1hj3y17w0vq5bvu/loadingicon.png?rlkey=ddbzulnvx44a6lx8goqeioupn&st=dj6pt4jw&dl=1
+Launcherimgfiles\rifleimage|https://www.dropbox.com/scl/fo/v73z1kdpp6xwj95kj98hw/APrjfYPMYblGLgWvZjFimRQ?rlkey=z9nw30eigoveumb6kdzoa4fjy&st=k1lu3g63&dl=1
