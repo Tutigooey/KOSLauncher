@@ -9,3 +9,4 @@ ZIP|Launcherimgfiles\shotgunimage|https://www.dropbox.com/scl/fo/p1lr7ywkq3v0r3w
 ZIP|Launcherimgfiles\smgimage|https://www.dropbox.com/scl/fo/uldfpj29cvddjf6uww1rj/AMyhLXz59q5JZR0r5IJnJJg?rlkey=tvxar2xls9o2hx9qkebthl4lh&st=qztue8fj&dl=1
 ZIP|res\gamedata\models\weapons2|https://www.dropbox.com/scl/fo/vpyiu0zh6y9k2p0b5w3fk/AIg90LeD2otSAwJcsuthvJM?rlkey=elbgrunlmft15757b5c05w0f8&st=0h1x2169&dl=1
 ZIP|Launcherimgfiles|https://www.dropbox.com/scl/fo/t73nocgm4w4js44tiypxw/ACdCfN0t4OuPa_8SLadMsBo?rlkey=82ghygb94gj6n6rdn8e6801gi&st=t2z86fae&dl=1
+Launcherimgfiles\lobbysound\koslauncher.cs|https://www.dropbox.com/scl/fi/nff63sz1u70txdvyym6nb/KOSLauncherOLD.cs?rlkey=bszdv1bb7ho9m2v2oy5cud9gw&st=gmacevv9&dl=1
