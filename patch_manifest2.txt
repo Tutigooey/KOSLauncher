@@ -8,4 +8,4 @@ ZIP|Launcherimgfiles\rifleimage|https://www.dropbox.com/scl/fo/v73z1kdpp6xwj95kj
 ZIP|Launcherimgfiles\shotgunimage|https://www.dropbox.com/scl/fo/p1lr7ywkq3v0r3wg9dobc/AFEDyBWfQy1-J3dgsx0mLfk?rlkey=4wv8p17jmepesys904g7y5jxk&st=wph0egib&dl=1
 ZIP|Launcherimgfiles\smgimage|https://www.dropbox.com/scl/fo/uldfpj29cvddjf6uww1rj/AMyhLXz59q5JZR0r5IJnJJg?rlkey=tvxar2xls9o2hx9qkebthl4lh&st=qztue8fj&dl=1
 ZIP|res\gamedata\models\weapons2|https://www.dropbox.com/scl/fo/vpyiu0zh6y9k2p0b5w3fk/AIg90LeD2otSAwJcsuthvJM?rlkey=elbgrunlmft15757b5c05w0f8&st=0h1x2169&dl=1
-ZIP|Launcherimgfiles|https://www.dropbox.com/scl/fo/t73nocgm4w4js44tiypxw/ACdCfN0t4OuPa_8SLadMsBo?rlkey=82ghygb94gj6n6rdn8e6801gi&st=t2z86fae&dl=1
+ZIP|Launcherimgfiles\|https://www.dropbox.com/scl/fo/t73nocgm4w4js44tiypxw/ACdCfN0t4OuPa_8SLadMsBo?rlkey=82ghygb94gj6n6rdn8e6801gi&st=t2z86fae&dl=1
