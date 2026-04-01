@@ -8,4 +8,8 @@ ZIP|Launcherimgfiles\rifleimage|https://www.dropbox.com/scl/fo/v73z1kdpp6xwj95kj
 ZIP|Launcherimgfiles\shotgunimage|https://www.dropbox.com/scl/fo/p1lr7ywkq3v0r3wg9dobc/AFEDyBWfQy1-J3dgsx0mLfk?rlkey=4wv8p17jmepesys904g7y5jxk&st=wph0egib&dl=1
 ZIP|Launcherimgfiles\smgimage|https://www.dropbox.com/scl/fo/uldfpj29cvddjf6uww1rj/AMyhLXz59q5JZR0r5IJnJJg?rlkey=tvxar2xls9o2hx9qkebthl4lh&st=qztue8fj&dl=1
 ZIP|res\gamedata\models\weapons2|https://www.dropbox.com/scl/fo/vpyiu0zh6y9k2p0b5w3fk/AIg90LeD2otSAwJcsuthvJM?rlkey=elbgrunlmft15757b5c05w0f8&st=0h1x2169&dl=1
-ZIP|Launcherimgfiles\|https://www.dropbox.com/scl/fo/t73nocgm4w4js44tiypxw/ACdCfN0t4OuPa_8SLadMsBo?rlkey=82ghygb94gj6n6rdn8e6801gi&st=t2z86fae&dl=1
+Launcherimgfiles\conthrax-sb.ttf|https://www.dropbox.com/scl/fi/pelzw8425q7bkj478utkl/conthrax-sb.ttf?rlkey=83fwzwspe5k7tl4fg0e2vm60l&st=v4akczrg&dl=1
+Launcherimgfiles\defaultprofile.png|https://www.dropbox.com/scl/fi/f8htkq43bb6hz72ijxki9/defaultprofile.png?rlkey=cq3pjw3gyttpnnxb34zf3u3hu&st=xlb3y35w&dl=1
+Launcherimgfiles\logo.png|https://www.dropbox.com/scl/fi/g5j33o3d1l31pjdjiwtal/logo.png?rlkey=y7y40oaadhyj8dcefcj2bsbjj&st=g42k26ka&dl=1
+Launcherimgfiles\viewmodel.png|https://www.dropbox.com/scl/fi/ijy8lnzwqv0ok9hzp3e5w/viewmodel.png?rlkey=dj291s7npxzvr4qjg2b98plf6&st=s3rpwg1m&dl=1
+Launcherimgfiles\viewmodel2.png|https://www.dropbox.com/scl/fi/expzcrg2amihl0epndxof/viewmodel2.png?rlkey=p2vone7bh2kery2uw736qg9ws&st=isu59jry&dl=1
