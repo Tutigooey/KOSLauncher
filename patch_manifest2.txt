@@ -5,8 +5,12 @@ ZIP|Launcherimgfiles\rifleimage|https://www.dropbox.com/scl/fo/ynx9ebabqbuuhxvy6
 ZIP|Launcherimgfiles\shotgunimage|https://www.dropbox.com/scl/fo/colm7y75ei1f6tlrzqn7f/AHpXxpEQNl8CFZ3801zfR7E?rlkey=rmyf0cfxoneqg88fxwr5ay9br&st=nth7ld7k&dl=1
 ZIP|Launcherimgfiles\smgimage|https://www.dropbox.com/scl/fo/zyimgt1n0z6q80xcqujb3/AEqxxz4Z8RFB_R_naZTf1Io?rlkey=uquxhj95trv997reolz3adsy5&st=afh985qm&dl=1
 ZIP|res\gamedata\models\weapons2|https://www.dropbox.com/scl/fo/u798s662mosiolphvutdj/AJuqY704yNbIeJJQz8eWR0U?rlkey=uxmhiszcy5e0dta3pf26mfy5c&st=jf03speb&dl=1
+ZIP|Launcherimgfiles\lobbyui|https://www.dropbox.com/scl/fo/cle6kpw4mggo8zvnqnkpd/ACQDNCxpSnFeroFo5sZfBWc?rlkey=2ou3159tdm66eam9l04yibngc&st=dvn7q8fi&dl=1
+ZIP|Tesseract-OCR|https://www.dropbox.com/scl/fo/lj1nta4hvhuweb4jqbt03/AEazpZam28_YjQebTeQAvXs?rlkey=zz7260nwoiz23c3rslmlk0laz&st=vdso32j7&dl=1
 Launcherimgfiles\conthrax-sb.ttf|https://www.dropbox.com/scl/fi/pelzw8425q7bkj478utkl/conthrax-sb.ttf?rlkey=83fwzwspe5k7tl4fg0e2vm60l&st=v4akczrg&dl=1
 Launcherimgfiles\defaultprofile.png|https://www.dropbox.com/scl/fi/f8htkq43bb6hz72ijxki9/defaultprofile.png?rlkey=cq3pjw3gyttpnnxb34zf3u3hu&st=xlb3y35w&dl=1
 Launcherimgfiles\logo.png|https://www.dropbox.com/scl/fi/g5j33o3d1l31pjdjiwtal/logo.png?rlkey=y7y40oaadhyj8dcefcj2bsbjj&st=g42k26ka&dl=1
 Launcherimgfiles\viewmodel.png|https://www.dropbox.com/scl/fi/ijy8lnzwqv0ok9hzp3e5w/viewmodel.png?rlkey=dj291s7npxzvr4qjg2b98plf6&st=s3rpwg1m&dl=1
 Launcherimgfiles\viewmodel2.png|https://www.dropbox.com/scl/fi/expzcrg2amihl0epndxof/viewmodel2.png?rlkey=p2vone7bh2kery2uw736qg9ws&st=isu59jry&dl=1
+Launcherimgfiles\lobbysound\gameresult_lose.mp3|https://www.dropbox.com/scl/fi/ihw6wojctbe98szljyaw0/gameresult_lose.mp3?rlkey=jmn0ir6f5baac3m4eqlkzqkxm&st=797uq29h&dl=1
+Launcherimgfiles\lobbysound\gameresult_win.mp3|https://www.dropbox.com/scl/fi/gllydglj5vtfuizjewc3b/gameresult_win.mp3?rlkey=6z6ll8g1kajui4twwj2s6kv2x&st=wwxr1e6w&dl=1
