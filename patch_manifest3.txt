@@ -57,7 +57,7 @@ NOOVERWRITE|Tesseract-OCR\libwinpthread-1.dll|https://kos-launcher-284830763029-
 NOOVERWRITE|Tesseract-OCR\libwebpmux-3.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libwebpmux-3.dll
 NOOVERWRITE|Tesseract-OCR\zlib1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/zlib1.dll
 NOOVERWRITE|Tesseract-OCR\libpng16-16.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/tesseract.exe
-NOOVERWRITE|Tesseract-OCR\tesseract.exe|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libpng16-16.dll
+NOOVERWRITE|Tesseract-OCR\tesseract.exe|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/tesseract.exe
 NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_lose.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_lose.mp3
 NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_win.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_win.mp3
 NOOVERWRITE|Launcherimgfiles\lobbyui\sniperrifle.png|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/lobbyui/sniperrifle.png
