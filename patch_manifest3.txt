@@ -1,8 +1,5 @@
-NOOVERWRITE|ZIP|Launcherimgfiles\lobbysound|s3://kos-launcher-284830763029-ap-southeast-2-an/lobbysound
-NOOVERWRITE|ZIP|Launcherimgfiles\lobbyui|https://www.dropbox.com/scl/fo/le0l5du20jisj5ho0xry6/AG5CdQuYsRDaaAemmE6G-Xk?rlkey=kkaen2u0bkonslj0hf9kipa5o&st=9wasl77z&dl=1
+NOOVERWRITE|ZIP|Launcherimgfiles\uniformimage|https://www.dropbox.com/scl/fo/kizvu87xobhmsm2092nro/AEDKJkdptPzjMF3oGjibb-s?rlkey=d3za3h4sqx1k0o5jjfkja6qqq&st=scpy4gfv&dl=1
+NOOVERWRITE|ZIP|Launcherimgfiles\lobbyui|https://www.dropbox.com/scl/fo/cle6kpw4mggo8zvnqnkpd/ACQDNCxpSnFeroFo5sZfBWc?rlkey=2ou3159tdm66eam9l04yibngc&st=dvn7q8fi&dl=1
 NOOVERWRITE|ZIP|Tesseract-OCR|https://www.dropbox.com/scl/fo/lj1nta4hvhuweb4jqbt03/AEazpZam28_YjQebTeQAvXs?rlkey=zz7260nwoiz23c3rslmlk0laz&st=vdso32j7&dl=1
-NOOVERWRITE|Launcherimgfiles\conthrax-sb.ttf|https://www.dropbox.com/scl/fi/pelzw8425q7bkj478utkl/conthrax-sb.ttf?rlkey=83fwzwspe5k7tl4fg0e2vm60l&st=v4akczrg&dl=1
-NOOVERWRITE|Launcherimgfiles\defaultprofile.png|https://www.dropbox.com/scl/fi/f8htkq43bb6hz72ijxki9/defaultprofile.png?rlkey=cq3pjw3gyttpnnxb34zf3u3hu&st=xlb3y35w&dl=1
-NOOVERWRITE|Launcherimgfiles\logo.png|https://www.dropbox.com/scl/fi/g5j33o3d1l31pjdjiwtal/logo.png?rlkey=y7y40oaadhyj8dcefcj2bsbjj&st=g42k26ka&dl=1
-NOOVERWRITE|Launcherimgfiles\viewmodel.png|https://www.dropbox.com/scl/fi/ijy8lnzwqv0ok9hzp3e5w/viewmodel.png?rlkey=dj291s7npxzvr4qjg2b98plf6&st=s3rpwg1m&dl=1
-NOOVERWRITE|Launcherimgfiles\viewmodel2.png|https://www.dropbox.com/scl/fi/expzcrg2amihl0epndxof/viewmodel2.png?rlkey=p2vone7bh2kery2uw736qg9ws&st=isu59jry&dl=1
+NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_lose.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_lose.mp3
+NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_win.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_win.mp3
