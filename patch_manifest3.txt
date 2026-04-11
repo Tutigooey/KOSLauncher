@@ -3,7 +3,7 @@ NOOVERWRITE|Tesseract-OCR\libarchive-13.dll|https://kos-launcher-284830763029-ap
 NOOVERWRITE|Tesseract-OCR\libb2-1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libb2-1.dll
 NOOVERWRITE|Tesseract-OCR\libbrotlicommon.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libbrotlicommon.dll
 NOOVERWRITE|Tesseract-OCR\libbrotlidec.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libbrotlidec.dll
-NOOVERWRITE||Tesseract-OCR\libbz2-1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libbz2-1.dll
+NOOVERWRITE|Tesseract-OCR\libbz2-1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libbz2-1.dll
 NOOVERWRITE|Tesseract-OCR\libcairo-2.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libcairo-2.dll
 NOOVERWRITE|Tesseract-OCR\libcrypto-3-x64.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libcrypto-3-x64.dll
 NOOVERWRITE|Tesseract-OCR\libcurl-4.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libcurl-4.dll
@@ -56,7 +56,8 @@ NOOVERWRITE|Tesseract-OCR\libzstd.dll|https://kos-launcher-284830763029-ap-south
 NOOVERWRITE|Tesseract-OCR\libwinpthread-1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libwinpthread-1.dll
 NOOVERWRITE|Tesseract-OCR\libwebpmux-3.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libwebpmux-3.dll
 NOOVERWRITE|Tesseract-OCR\zlib1.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/zlib1.dll
-NOOVERWRITE|Tesseract-OCR\tesseract.exe|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/tesseract.exe
+NOOVERWRITE|Tesseract-OCR\libpng16-16.dll|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/tesseract.exe
+NOOVERWRITE|Tesseract-OCR\tesseract.exe|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/Tesseract-OCR/libpng16-16.dll
 NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_lose.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_lose.mp3
 NOOVERWRITE|Launcherimgfiles\lobbysound\gameresult_win.mp3|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/gameresult_win.mp3
 NOOVERWRITE|Launcherimgfiles\lobbyui\sniperrifle.png|https://kos-launcher-284830763029-ap-southeast-2-an.s3.ap-southeast-2.amazonaws.com/lobbyui/sniperrifle.png
